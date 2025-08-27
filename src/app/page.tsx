@@ -4,7 +4,7 @@ export default function Home() {
   const name = "something something";
   return (
     <>
-      <h1>Big Title</h1>
+      <h1 className="text-4xl font-bold text-center">Big Title</h1>
       <Greeting name={name} />
     </>
   );

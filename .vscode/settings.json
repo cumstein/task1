@@ -17,7 +17,12 @@
   "files.eol": "\n", // Enforce LF for line endings
 
   // ESLint Settings
-  "eslint.validate": ["javascript", "javascriptreact", "typescript", "typescriptreact"],
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ],
   "eslint.format.enable": true,
 
   // Prettier Settings
